@@ -17,7 +17,7 @@
 
 - [x] Main branch deployed to Netlify 0.5
 - [x] Open PR from dev branch with Netlify deploy preview 0.5
-- [] Header and Footer components 3
+- [x] Header and Footer components 3
 - [x] Main component which imports list of Zodiac signs 4
 - [x] Uses a .map to pass props to a child component 4
 - [x] Child component displays sign’s image, name and dates 2
