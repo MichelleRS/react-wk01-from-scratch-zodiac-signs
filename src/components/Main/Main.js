@@ -5,5 +5,5 @@ import background from '../../background.jpg';
 // import { zodiac } from '../../data.js';
 
 export default function Main() {
-  return <div style={{ backgroundImage: `url(${background})` }}>Main</div>;
+  return <main style={{ backgroundImage: `url(${background})` }}>Main</main>;
 }
