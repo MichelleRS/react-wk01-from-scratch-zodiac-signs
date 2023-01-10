@@ -24,3 +24,7 @@
 - [] Styled using individual style sheets imported into components 2
 - [] At least one component uses a background image using an import 2
 - [] Zodiac images are loaded dynamically from the public directory 2
+
+## Background Image
+
+https://pixabay.com/illustrations/star-pattern-abstract-background-5534094/?download
