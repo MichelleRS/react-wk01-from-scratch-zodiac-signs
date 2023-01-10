@@ -9,13 +9,13 @@
 
 ## Todo
 
-- [] add images to /public/images
+- [x] add images to /public/images
 - [x] create data.js and add zodiac signs
 - [] add style to each component
 
 # Rubric
 
-- [] Main branch deployed to Netlify 0.5
+- [x] Main branch deployed to Netlify 0.5
 - [] Open PR from dev branch with Netlify deploy preview 0.5
 - [] Header and Footer components 3
 - [] Main component which imports list of Zodiac signs 4
