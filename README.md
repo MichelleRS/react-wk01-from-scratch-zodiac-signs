@@ -9,9 +9,9 @@
 
 ## Todo
 
-- add images to /public/images
-- create data.js and add zodiac signs
-- add style to each component
+- [] add images to /public/images
+- [x] create data.js and add zodiac signs
+- [] add style to each component
 
 # Rubric
 
