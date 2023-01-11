@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  background-size: cover;
+  /* height: 100%; */
+  height: 640px;
+  overflow: auto;
+  align-content: flex-start;
+  position: relative;
+}
